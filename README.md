@@ -1,4 +1,4 @@
-# Timer and interrupts test
+# Timer and interrupt example
 
 C blink example using timer and interrupts on ATmega328P (Arduino Uno).
 
