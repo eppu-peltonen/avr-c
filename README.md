@@ -6,11 +6,11 @@ C blink example using timer and interrupts on ATmega328P (Arduino Uno).
 
 This example uses AVRDUDE, AVR Libc and avr-gcc:
 
-https://www.nongnu.org/avrdude/
-https://www.nongnu.org/avr-libc/
+https://www.nongnu.org/avrdude/ \
+https://www.nongnu.org/avr-libc/ \
 https://gcc.gnu.org/wiki/avr-gcc
 
-Another way is to install Arduino IDE and specify the include path to Arduino include files in your project settings.
+Another way is to install Arduino IDE and specify the include path to Arduino include files in your project settings if you are using Arduino.
 
 ### Configurations
 
